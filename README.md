@@ -2,7 +2,7 @@
 
 **Review Slider** is a clean and interactive UI component that cycles through user reviews or testimonials. Built using **HTML5**, **CSS3**, and **JavaScript**, this project showcases carousel-style functionality with smooth transitions and intuitive navigation.
 
-🔗 **Live Demo**: [View Project](https://ar-aryanrai.github.io/Review-Slider/)
+🔗 **Live Demo**: [Click here to visit Review Slider](https://ar-aryanrai.github.io/Review-Slider/)
 
 ---
 
